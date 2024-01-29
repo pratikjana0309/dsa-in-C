@@ -1,0 +1,5 @@
+List 1: 7->2->5->9->NULL
+List 2: 11->8->7->5->NULL
+Sorted List 1: 2->5->7->9->NULL
+Concatenated List: 2->5->7->9->11->8->7->5->NULL
+Reversed List: 5->7->8->11->9->7->5->2->NULL
